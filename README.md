@@ -11,6 +11,11 @@ You can utilize the information within this repo 100% for your own personal inte
 website can in no way be brought back to the owner (CryptoH4ck3r). In other words.  
 *You fuck up booboo, CryptoH4ck3r can not be blamed for it!*  
   
+## Please Note  
+The tool "WPScan" will **NOT** work against websites being hosted on WordPress. It can only work on those who are self-hosting their own WordPress websites.  
+In this setup, we will also be utilizing BurpSuite and Hydra for assistance in bruteforcing usernames.  
+I hope you enjoy learning!  
+  
 ## Contact & Support  
 *I am here to help!*  
 If you have found this tutorial a bit hard, or you are confused on something, do do fear I is here!  
